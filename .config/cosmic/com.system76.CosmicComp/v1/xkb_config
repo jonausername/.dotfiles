@@ -1,0 +1,9 @@
+(
+    rules: "",
+    model: "",
+    layout: "us",
+    variant: "",
+    options: Some(",caps:escape"),
+    repeat_delay: 350,
+    repeat_rate: 45,
+)
