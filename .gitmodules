@@ -1,3 +1,4 @@
 [submodule ".home"]
 	path = .home
 	url = git@github.com:jonausername/.home.git
+	update = merge
